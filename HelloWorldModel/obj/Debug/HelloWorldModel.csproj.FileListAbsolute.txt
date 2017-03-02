@@ -1,0 +1,5 @@
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldModel\bin\Debug\HelloWorldModel.dll
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldModel\bin\Debug\HelloWorldModel.pdb
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldModel\obj\Debug\HelloWorldModel.csprojResolveAssemblyReference.cache
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldModel\obj\Debug\HelloWorldModel.dll
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldModel\obj\Debug\HelloWorldModel.pdb

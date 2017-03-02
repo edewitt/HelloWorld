@@ -1,0 +1,7 @@
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldDAL\bin\Debug\HelloWorldDAL.dll
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldDAL\bin\Debug\HelloWorldDAL.pdb
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldDAL\bin\Debug\HelloWorldModel.dll
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldDAL\bin\Debug\HelloWorldModel.pdb
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldDAL\obj\Debug\HelloWorldDAL.csprojResolveAssemblyReference.cache
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldDAL\obj\Debug\HelloWorldDAL.dll
+c:\users\azsh\documents\visual studio 2015\Projects\HelloWorld\HelloWorldDAL\obj\Debug\HelloWorldDAL.pdb
