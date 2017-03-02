@@ -11,7 +11,7 @@ namespace HelloWorldApi.Controllers
 {
     public class HelloController : ApiController
     {
-        // GET api/values
+        // GET api/hello
         public IEnumerable<HelloModel> Get()
         {
 
@@ -22,7 +22,7 @@ namespace HelloWorldApi.Controllers
 
         }
 
-        // GET api/values/5
+        // GET api/hello/5
         public HelloModel Get(int id)
         {
 
@@ -33,7 +33,7 @@ namespace HelloWorldApi.Controllers
 
         }
 
-        // POST api/values
+        // POST api/hello
         public void Post([FromBody]string value)
         {
 
@@ -42,7 +42,7 @@ namespace HelloWorldApi.Controllers
 
         }
 
-        // PUT api/values/5
+        // PUT api/hello/5
         public void Put(int id, [FromBody]string value)
         {
 
@@ -53,7 +53,7 @@ namespace HelloWorldApi.Controllers
 
         }
 
-        // DELETE api/values/5
+        // DELETE api/hello/5
         public void Delete(int id)
         {
             var repo = new HelloWorldRepository();
